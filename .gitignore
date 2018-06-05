@@ -1,6 +1,10 @@
 # Mongo Files
 database
 
+# API Key
+/key.js
+
+#test
 
 # Logs
 logs
